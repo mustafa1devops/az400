@@ -1,4 +1,5 @@
 #Add dnu to path
+#test commit
 Write-Verbose "Add dnu to path for this session."
 Invoke-Expression "$env:USERPROFILE\.dnx\bin\dnvm.ps1 use default"
 
